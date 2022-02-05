@@ -10,4 +10,7 @@
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-# micronaught
+# Start server 
+1. Execute hello.world.server.Application.main
+2. Server will start at 8080
+3. hit api http://localhost:8080/greet/aanand
